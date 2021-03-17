@@ -1,0 +1,12 @@
+{
+    "Preprocessors" : {
+        "none":0,
+        "face":1,
+        "object":2
+    },
+    "Contexts" : {
+        "Home":1,
+        "Labeller":2,
+        "Sorter":3
+    }
+}
